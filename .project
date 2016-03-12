@@ -14,4 +14,27 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Dolan</name>
+			<type>1</type>
+			<location>C:/Users/Harrison/Desktop/Kerbal.Space.Program.v1.0.4.861/Kerbal.Space.Program.v1.0.4.861/GameData/Squad/Flags/Dolan.png</location>
+		</link>
+		<link>
+			<name>src/images/Dolan.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Harrison/Desktop/Kerbal.Space.Program.v1.0.4.861/Kerbal.Space.Program.v1.0.4.861/GameData/Squad/Flags/Dolan.jpg</location>
+		</link>
+	</linkedResources>
+	<filteredResources>
+		<filter>
+			<id>1457748750778</id>
+			<name>src</name>
+			<type>5</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-location-matches-false-false-</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
 </projectDescription>
